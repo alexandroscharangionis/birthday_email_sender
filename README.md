@@ -1,1 +1,1 @@
-# birthday_email_sender
+# Automatic birthday e-mail sender using SMTPLIB, DATETIME, PANDAS libraries
